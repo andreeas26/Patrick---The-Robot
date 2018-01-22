@@ -39,3 +39,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * Make sure you check the other projects on [alexbordei.com](http://alexbordei.com)
 
+## Other Credits
+
+[SCRU-FE: Simple C++ Robot with Ultra-sonic Sensor for Education: Arduino UNO Obstacle Avoidance Maze Programming](https://www.thingiverse.com/thing:780050) by rtheiss, published Apr 19, 2015
